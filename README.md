@@ -1,1 +1,1 @@
-# Minecraft-Launcher-2014-OLauncher-
+# Minecraft-Launcher-2014-OLauncher
